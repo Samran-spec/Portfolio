@@ -23,16 +23,21 @@ ul{
   font-size: 1rem;
   text-transform: capitalize;
   color: #222;
+  background-color: yellow;
   border: 1px solid #fff;
   font-weight: 600;
   cursor: pointer;
 }
 .btn-light{
+  padding: 12px 32px;
   background: transparent;
+  font-size: 1rem;
+  border: 1px solid #fff;
   color: #fff;
+  font-weight: 600;
 }
 .btn:hover{
-  background: rgba(red, green, blue, 0);
+  background-color: transparent;
   color: #fff;
   transition: 0.3s;
 }

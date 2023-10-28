@@ -10,22 +10,22 @@ const Footer = () => {
           <div className="location">
             <FaHome size={20} style={{ color: "white", marginRight: "2rem" }} />
             <div>
-              <p>Waterloo, Ontario</p>
-              <p>Canada</p>
+              <p>City, State</p>
+              <p>Country</p>
             </div>
           </div>
           <div className="phone">
             <h4><FaPhone size={20} style={{ color: "white", marginRight: "2rem" }} />
-            +1-647-531-3717</h4>
+            Phone</h4>
           </div>
           <div className="email">
           <h4><FaMailBulk size={20} style={{ color: "white", marginRight: "2rem" }} />
-            samranyasin12@gmail.com</h4>
+            Email</h4>
           </div>
         </div>
         <div className="right">
             <h4>About</h4>
-            <p>This is me Samran Haider. Transforming ideas into Seamless Digital Solutions.</p>
+            <p>This is me ''. Transforming ideas into Seamless Digital Solutions.</p>
             <div className="social">
             <FaFacebook size={30} style={{ color: "white", marginRight: "2rem" }} />
             <FaGithub size={30} style={{ color: "white", marginRight: "2rem" }} />
